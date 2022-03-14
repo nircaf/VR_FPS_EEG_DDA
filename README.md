@@ -1,5 +1,4 @@
-![intro video](https://www.youtube.com/watch?v=HlnPBX3IPFk)
-
+[![Watch the video](https://img.youtube.com/vi/HlnPBX3IPFk/hqdefault.jpg)](https://youtu.be/HlnPBX3IPFk)
 
 # VR_FPS_EEG_DDA
 This study uses dynamic difficulty adjustment (DDA) from Electroencephalography (EEG) input in order to increase engagement period. using Muse EEG headset
